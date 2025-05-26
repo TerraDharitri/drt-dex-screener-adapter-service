@@ -39,6 +39,5 @@ lerna-debug.log*
 **/*/config/config.custom.yaml
 
 # Environment
-.env
-.env.*
 !.env.example
+config.bat
